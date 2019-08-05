@@ -3,3 +3,5 @@
 # The LCD driver is a PCF8576DA from Philips, the communication is done 
 # with the protocol I2C, but I'm use a construct of all lines of 
 # commands to not be dependent of librarys and make the debug more easy.
+
+## change of word "Folks" and correct the sequence of colors : 000~111
